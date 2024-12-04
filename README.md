@@ -4,12 +4,14 @@
 
 ![Banner](https://github.com/SKaaalper/Openloop-node/blob/SKaaalper-patch-1/OpenLoopMap.DdU9p2P0.png)
 
+
 *Openloop Official Account*
 
 - **Website** https://openloop.so/
 - **Twitter** @openloop_so
 - **Telegram** @openloop_updates
 - **discord** https://discord.com/invite/75qBRaUczN
+
 
 **Features**
 
@@ -20,16 +22,20 @@
 - *Support Multi Accounts*
 - *Support Proxy*
 
+
 **Requirements**
 
 - **Node.js**: ***Ensure you have Node.js installed.***
 - **npm**: ***Ensure you have npm installed.***
 
-  ***make sure you have same number account and proxy***
+
+  **make sure you have same number account and proxy**
+
 
 - if you already have account you can put `access-token` to `token.txt`,
 
 - put your proxy in file `proxy.txt` format `http://username:pass@ip:port`
+
 
 **Free proxy for 7 days Trial**
 
@@ -42,6 +48,7 @@
 
 - Register here: [Openloop](chrome://extensions/?id=effapmdildnpkiaeghlkicpfflpiambm)
 - My Invite Code: `ol985c1beb`
+
 
 ## Setup
 
