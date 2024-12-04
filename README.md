@@ -80,7 +80,7 @@
    ```
    - Copy the token and save it to `token.txt`
 
-6. Create file for `token.txt
+6. Create file for `token.txt`
    ```
    nano token.txt
    ```
