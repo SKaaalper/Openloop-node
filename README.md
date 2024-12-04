@@ -44,11 +44,11 @@
 - Go here [7Days proxy free trial](https://dashboard.proxyscrape.com/v2/services/premium/ip-authentication/d0a61512-5605-46df-8653-7e7a3d26c830)
 - Create account
 - Authenticate 1 IP you use for the Proxy
-- For Cloud `curl http://ipinfo.io/`
-- For Windows `http://ipinfo.io/`
+- For Cloud `curl http://ipinfo.io/` Copy and paste it into your machine
+- For Windows `http://ipinfo.io/` Copy and paste it into your browser
 - Copy your IP add then authenticate
 
-- Register here: [Openloop](chrome://extensions/?id=effapmdildnpkiaeghlkicpfflpiambm)
+- Register here: [Openloop](https://chromewebstore.google.com/detail/openloopso-sentry-node-ex/effapmdildnpkiaeghlkicpfflpiambm)
 - My Invite Code: `ol985c1beb`
 
 
