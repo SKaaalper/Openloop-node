@@ -1,7 +1,7 @@
 # **OpenLoop Decentralized bandwidth**
 
 
-![Banner](https://github.com/SKaaalper/Openloop-node/blob/main/OpenLoopMap.DdU9p2P0.png))
+![Banner](https://github.com/SKaaalper/Openloop-node/blob/main/OpenLoopMap.DdU9p2P0.png)
 
 
 # **Decentralized bandwidth Get paid for sharing your unused Internet From Passive Internet to Active Rewards**
