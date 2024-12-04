@@ -1,11 +1,13 @@
-***OpenLoop Decentralized bandwidth***
+### **OpenLoop Decentralized bandwidth**
 
-*Decentralized bandwidth Get paid for sharing your unused Internet From Passive Internet to Active Rewards*
 
 ![Banner](https://github.com/SKaaalper/Openloop-node/blob/SKaaalper-patch-1/OpenLoopMap.DdU9p2P0.png)
 
 
-*Openloop Official Account*
+### **Decentralized bandwidth Get paid for sharing your unused Internet From Passive Internet to Active Rewards**
+
+
+## *Openloop Official Account*
 
 - **Website** https://openloop.so/
 - **Twitter** @openloop_so
@@ -13,7 +15,7 @@
 - **discord** https://discord.com/invite/75qBRaUczN
 
 
-**Features**
+## **Features**
 
 - *Register Accounts*
 - *Load Existing Tokens: Load pre-existing tokens if you already have account.*
@@ -23,7 +25,7 @@
 - *Support Proxy*
 
 
-**Requirements**
+## **Requirements**
 
 - **Node.js**: ***Ensure you have Node.js installed.***
 - **npm**: ***Ensure you have npm installed.***
@@ -37,7 +39,7 @@
 - put your proxy in file `proxy.txt` format `http://username:pass@ip:port`
 
 
-**Free proxy for 7 days Trial**
+## **Free proxy for 7 days Trial**
 
 - Go here [7Days proxy free trial](https://dashboard.proxyscrape.com/v2/services/premium/ip-authentication/d0a61512-5605-46df-8653-7e7a3d26c830)
 - Create account
