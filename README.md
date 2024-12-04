@@ -56,7 +56,7 @@
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/SKaaalper/openloop.git
+   git clone https://github.com/SKaaalper/Openloop-node
    cd openloop
    ```
 2. Install dependencies:
