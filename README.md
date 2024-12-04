@@ -29,7 +29,7 @@
 - **npm**: ***Ensure you have npm installed.***
 
 
-  **make sure you have same number account and proxy**
+  make sure you have same number account and proxy
 
 
 - if you already have account you can put `access-token` to `token.txt`,
