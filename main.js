@@ -2,8 +2,8 @@ import fetch from 'node-fetch';
 import fs from 'fs';
 import chalk from 'chalk';
 import { HttpsProxyAgent } from 'https-proxy-agent';
-import { banner } from './utils/banner.js';
-import { logger } from './utils/logger.js';
+import { banner } from './utils/banner.js'; // Ensure the file name is correct
+import { logger } from './utils/logger.js'; // Ensure the file name is correct
 
 const getRandomQuality = () => {
     return Math.floor(Math.random() * (99 - 60 + 1)) + 60;
@@ -80,3 +80,4 @@ const main = () => {
 };
 
 main();
+
