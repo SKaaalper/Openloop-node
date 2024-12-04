@@ -30,10 +30,10 @@ const loginUser = async (email, password) => {
 
         const loginData = await loginResponse.json();
         const accessToken = loginData.data.accessToken;
-        logger('Login successful get Token:', 'success', accessToken);
+        logger('Login successful, got Token:', 'success', accessToken);
         
         fs.writeFileSync('token.txt', accessToken + '\n', 'utf8');
-        logger('Access token saved to token.txt');
+        logger('Access token saved to token.txt', 'info');
     } catch (error) {
         logger('Error during login:', 'error', error.message);
     }
@@ -42,7 +42,7 @@ const loginUser = async (email, password) => {
 const registerUser = async () => {
     try {
         const email = await askQuestion('Enter your email: ');
-        const name = email;
+        const name = email;  // If you want to use the same name as email
         const password = await askQuestion('Enter your password: ');
         const inviteCode = 'ol41fe134b'; 
 
@@ -56,7 +56,7 @@ const registerUser = async () => {
         });
 
         if (registerResponse.status === 401) {
-            logger('Email already exist. Attempting to login...');
+            logger('Email already exists. Attempting to login...', 'info');
             await loginUser(email, password);
             return;
         }
@@ -66,7 +66,7 @@ const registerUser = async () => {
         }
 
         const registerData = await registerResponse.json();
-        logger('Registration successful:','success', registerData.message);
+        logger('Registration successful:', 'success', registerData.message);
 
         await loginUser(email, password);
     } catch (error) {
