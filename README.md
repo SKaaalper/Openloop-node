@@ -10,8 +10,8 @@
 ## *Openloop Official Account*
 
 - **Website** https://openloop.so/
-- **Twitter** @openloop_so
-- **Telegram** @openloop_updates
+- **Twitter** [@openloop_so](https://x.com/openloop_so)
+- **Telegram** [@openloop_updates](https://t.me/openloop_updates)
 - **discord** https://discord.com/invite/75qBRaUczN
 
 
