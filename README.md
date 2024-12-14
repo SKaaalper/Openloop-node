@@ -95,6 +95,8 @@
    ```bash
    npm run start
    ```
+
+9. Detach screen `ctrl + A` , Then Click `D`
    
 8. Auto reff using temp mail
    ```bash
