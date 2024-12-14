@@ -56,8 +56,7 @@
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/SKaaalper/Openloop-node
-   cd openloop
+   git clone https://github.com/SKaaalper/Openloop-node.git && cd openloop
    ```
 2. Install dependencies:
    ```bash
@@ -86,11 +85,17 @@
    ```
    - ctrl + o to `save`
    - ctrl + x to `exit`
+
+7. Open Screen Session
+   ```
+   screen -S openloop
+   ```
    
-7. Run The Script:
+8. Run The Script:
    ```bash
    npm run start
    ```
+   
 8. Auto reff using temp mail
    ```bash
    npm run autoreff
